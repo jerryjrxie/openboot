@@ -1,0 +1,25 @@
+internal/brew/resolve_test.go
+  de637fb7ede7fa1b 1-82
+internal/brew/brew.go
+  de637fb7ede7fa1b 225-228,231,240,243,276,293,297,321,328,330,332,334,338-345,609-618,621,624-625,627-630,633-634,637-643,645-646,648-651,653
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "1f9c695ebf0a59ff2c8f50627d9ca58434dc51b3",
+  "prompts": {
+    "de637fb7ede7fa1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8d7d755-4a7c-4c91-a3da-695a2c72cac4",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jerry Xie",
+      "messages": [],
+      "total_additions": 273,
+      "total_deletions": 167,
+      "accepted_lines": 141,
+      "overriden_lines": 0
+    }
+  }
+}
