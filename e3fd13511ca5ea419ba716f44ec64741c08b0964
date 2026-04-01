@@ -1,0 +1,25 @@
+internal/diff/compare_test.go
+  de637fb7ede7fa1b 4-5,11,14-23,26,51,77,103,132,163,178,201
+internal/system/system.go
+  de637fb7ede7fa1b 74-75,77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "e3fd13511ca5ea419ba716f44ec64741c08b0964",
+  "prompts": {
+    "de637fb7ede7fa1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8d7d755-4a7c-4c91-a3da-695a2c72cac4",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jerry Xie",
+      "messages": [],
+      "total_additions": 27,
+      "total_deletions": 37,
+      "accepted_lines": 25,
+      "overriden_lines": 0
+    }
+  }
+}
