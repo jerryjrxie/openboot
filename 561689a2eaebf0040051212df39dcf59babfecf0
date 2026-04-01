@@ -1,0 +1,27 @@
+internal/system/system.go
+  de637fb7ede7fa1b 78-79
+internal/system/system_test.go
+  de637fb7ede7fa1b 306-309,311,314,316-317,322,325-328
+internal/cli/doctor.go
+  de637fb7ede7fa1b 11,147-148,150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "561689a2eaebf0040051212df39dcf59babfecf0",
+  "prompts": {
+    "de637fb7ede7fa1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8d7d755-4a7c-4c91-a3da-695a2c72cac4",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jerry Xie",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 28,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}
