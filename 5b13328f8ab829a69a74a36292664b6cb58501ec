@@ -1,0 +1,23 @@
+internal/brew/brew_test.go
+  de637fb7ede7fa1b 4,219,221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "5b13328f8ab829a69a74a36292664b6cb58501ec",
+  "prompts": {
+    "de637fb7ede7fa1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8d7d755-4a7c-4c91-a3da-695a2c72cac4",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jerry Xie",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 3,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
